@@ -1,17 +1,11 @@
     const BASE_URL = "http://localhost:8080"
     let about_all_boxes = document.querySelector(".about_all_boxes")
-    let grid_less_twenyfive = document.querySelector(".grid-less_twenyfive")
-    let grid_other = document.querySelector(".grid-other")
-    let show_all = document.querySelector(".show-all")
-    let first = document.querySelector("#first")
-    let second = document.querySelector("#second")
-    let third = document.querySelector("#third")
-    let btns = document.querySelectorAll("button")
+    let ten = document.querySelector(".ten")
+    let show_all = document.querySelector("#other_ten")
 
-    function reload(arr, place, place2, place3) {
+    function reload(arr, place) {
         place.innerHTML = ""
-        place2.innerHTML = ""
-        place3.innerHTML = ""
+
 
         for (let item of arr) {
             let box = document.createElement("div")
@@ -42,36 +36,38 @@
 
             a.href = './more.html?id=' + item.id
 
-
+            place.append(box)
             box.append(h2, first_p, second_p, third_p, a)
             a.append(more_btn)
 
-            if (item.age < 25) {
-                place.append(box);
-            } else if (item.age < 35) {
-                place2.append(box);
-            } else {
-                place3.append(box);
-            }
+ 
 
         }
     }
-    first.onclick = () => {
+    ten.onclick = () => {
         fetch(BASE_URL + "/users")
             .then(res => res.json())
             .then(res => {
-               const  place = res.slice(0, 3);
-                reload(res, about_all_boxes, grid_less_twenyfive, grid_other);
+               const arr = res.slice(0, 15);
+                reload(arr, about_all_boxes);
             });
     };
 
+    show_all.onclick = () => {
+        fetch(BASE_URL + "/users")
+        .then(res => res.json())
+        .then(res => {
+            reload(res, about_all_boxes);
+        });
+    };
+    
 
 function fetchData() {
     fetch(BASE_URL + "/users")
         .then(res => res.json())
         .then(res => {
 
-            reload(res, about_all_boxes, grid_less_twenyfive, grid_other);
+            reload(res, about_all_boxes);
         })
 
 

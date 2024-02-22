@@ -5,8 +5,6 @@ let about_us = document.querySelector("#about_us")
 let h3 = document.querySelector("h3")
 
 
-
-
     fetch(url + id)
     .then(res => res.json())
     .then(res => {
