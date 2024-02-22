@@ -1,0 +1,721 @@
+    {
+        "users":[
+          {
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret",
+            "email": "Sincere@april.biz",
+            "age": 15,
+            "address": {
+              "street": "Kulas Light",
+              "suite": "Apt. 556",
+              "city": "Gwenborough",
+              "zipcode": "92998-3874",
+              "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+              }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+              "name": "Romaguera-Crona",
+              "catchPhrase": "Multi-layered client-server neural-net",
+              "bs": "harness real-time e-markets"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette",
+            "email": "Shanna@melissa.tv",
+            "age": 14,
+            "address": {
+              "street": "Victor Plains",
+              "suite": "Suite 879",
+              "city": "Wisokyburgh",
+              "zipcode": "90566-7771",
+              "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+              }
+            },
+            "phone": "010-692-6593 x09125",
+            "website": "anastasia.net",
+            "company": {
+              "name": "Deckow-Crist",
+              "catchPhrase": "Proactive didactic contingency",
+              "bs": "synergize scalable supply-chains"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha",
+            "email": "Nathan@yesenia.net",
+            "age": 3,
+            "address": {
+              "street": "Douglas Extension",
+              "suite": "Suite 847",
+              "city": "McKenziehaven",
+              "zipcode": "59590-4157",
+              "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+              }
+            },
+            "phone": "1-463-123-4447",
+            "website": "ramiro.info",
+            "company": {
+              "name": "Romaguera-Jacobson",
+              "catchPhrase": "Face to face bifurcated interface",
+              "bs": "e-enable strategic applications"
+            }
+          },
+          {
+            "id": 4,
+            "name": "Patricia Lebsack",
+            "username": "Karianne",
+            "email": "Julianne.OConner@kory.org",
+            "age": 40,
+            "address": {
+              "street": "Hoeger Mall",
+              "suite": "Apt. 692",
+              "city": "South Elvis",
+              "zipcode": "53919-4257",
+              "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+              }
+            },
+            "phone": "493-170-9623 x156",
+            "website": "kale.biz",
+            "company": {
+              "name": "Robel-Corkery",
+              "catchPhrase": "Multi-tiered zero tolerance productivity",
+              "bs": "transition cutting-edge web services"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Chelsey Dietrich",
+            "username": "Kamren",
+            "email": "Lucio_Hettinger@annie.ca",
+            "age": 25,
+            "address": {
+              "street": "Skiles Walks",
+              "suite": "Suite 351",
+              "city": "Roscoeview",
+              "zipcode": "33263",
+              "geo": {
+                "lat": "-31.8129",
+                "lng": "62.5342"
+              }
+            },
+            "phone": "(254)954-1289",
+            "website": "demarco.info",
+            "company": {
+              "name": "Keebler LLC",
+              "catchPhrase": "User-centric fault-tolerant solution",
+              "bs": "revolutionize end-to-end systems"
+            }
+          },
+          {
+            "id": 6,
+            "name": "Mrs. Dennis Schulist",
+            "username": "Leopoldo_Corkery",
+            "email": "Karley_Dach@jasper.info",
+            "age": 37,
+            "address": {
+              "street": "Norberto Crossing",
+              "suite": "Apt. 950",
+              "city": "South Christy",
+              "zipcode": "23505-1337",
+              "geo": {
+                "lat": "-71.4197",
+                "lng": "71.7478"
+              }
+            },
+            "phone": "1-477-935-8478 x6430",
+            "website": "ola.org",
+            "company": {
+              "name": "Considine-Lockman",
+              "catchPhrase": "Synchronised bottom-line interface",
+              "bs": "e-enable innovative applications"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Kurtis Weissnat",
+            "username": "Elwyn.Skiles",
+            "email": "Telly.Hoeger@billy.biz",
+            "age": 9,
+            "address": {
+              "street": "Rex Trail",
+              "suite": "Suite 280",
+              "city": "Howemouth",
+              "zipcode": "58804-1099",
+              "geo": {
+                "lat": "24.8918",
+                "lng": "21.8984"
+              }
+            },
+            "phone": "210.067.6132",
+            "website": "elvis.io",
+            "company": {
+              "name": "Johns Group",
+              "catchPhrase": "Configurable multimedia task-force",
+              "bs": "generate enterprise e-tailers"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Nicholas Runolfsdottir V",
+            "username": "Maxime_Nienow",
+            "email": "Sherwood@rosamond.me",
+            "age": 20,
+            "address": {
+              "street": "Ellsworth Summit",
+              "suite": "Suite 729",
+              "city": "Aliyaview",
+              "zipcode": "45169",
+              "geo": {
+                "lat": "-14.3990",
+                "lng": "-120.7677"
+              }
+            },
+            "phone": "586.493.6943 x140",
+            "website": "jacynthe.com",
+            "company": {
+              "name": "Abernathy Group",
+              "catchPhrase": "Implemented secondary concept",
+              "bs": "e-enable extensible e-tailers"
+            }
+          },{
+            "id": 9,
+            "name": "Glenna Reichert",
+            "username": "Delphine",
+            "email": "Chaim_McDermott@dana.io",
+            "age": 36,
+            "address": {
+              "street": "Dayna Park",
+              "suite": "Suite 449",
+              "city": "Bartholomebury",
+              "zipcode": "76495-3109",
+              "geo": {
+                "lat": "24.6463",
+                "lng": "-168.8889"
+              }
+            },
+            "phone": "(775)976-6794 x41206",
+            "website": "conrad.com",
+            "company": {
+              "name": "Yost and Sons",
+              "catchPhrase": "Switchable contextually-based project",
+              "bs": "aggregate real-time technologies"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Clementina DuBuque",
+            "username": "Moriah.Stanton",
+            "email": "Rey.Padberg@karina.biz",
+            "age": 4,
+            "address": {
+              "street": "Kattie Turnpike",
+              "suite": "Suite 198",
+              "city": "Lebsackbury",
+              "zipcode": "31428-2261",
+              "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+              }
+            },
+            "phone": "024-648-3804",
+            "website": "ambrose.net",
+            "company": {
+              "name": "Hoeger LLC",
+              "catchPhrase": "Centralized empowering task-force",
+              "bs": "target end-to-end models"
+            }
+          },
+          {
+            "id": 11,
+            "name": "Luisa Watts",
+            "username": "Luisa.Watts",
+            "email": "luisa.watts@example.com",
+            "age": 27,
+            "address": {
+              "street": "Wayne Street",
+              "suite": "Apt. 123",
+              "city": "Westborough",
+              "zipcode": "12345",
+              "geo": {
+                "lat": "42.2717",
+                "lng": "-71.6122"
+              }
+            },
+            "phone": "(123)456-7890",
+            "website": "example.com",
+            "company": {
+              "name": "Example Company",
+              "catchPhrase": "This is an example catchphrase",
+              "bs": "Example business strategy"
+            }
+          },
+          {
+            "id": 12,
+            "name": "John Doe",
+            "username": "johndoe",
+            "email": "john.doe@example.com",
+            "age": 33,
+            "address": {
+              "street": "Main Street",
+              "suite": "Apt. 456",
+              "city": "Anytown",
+              "zipcode": "54321",
+              "geo": {
+                "lat": "12.3456",
+                "lng": "-98.7654"
+              }
+            },
+            "phone": "(987)654-3210",
+            "website": "example.org",
+            "company": {
+              "name": "Example Org",
+              "catchPhrase": "This is another example catchphrase",
+              "bs": "Another example business strategy"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Jane Smith",
+            "username": "janesmith",
+            "email": "jane.smith@example.com",
+            "age": 29,
+            "address": {
+              "street": "Oak Avenue",
+              "suite": "Apt. 789",
+              "city": "Eastville",
+              "zipcode": "67890",
+              "geo": {
+                "lat": "78.9012",
+                "lng": "-23.4567"
+              }
+            },
+            "phone": "(135)792-4680",
+            "website": "example.net",
+            "company": {
+              "name": "Example Net",
+              "catchPhrase": "Yet another example catchphrase",
+              "bs": "Yet another example business strategy"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Michael Johnson",
+            "username": "michaeljohnson",
+            "email": "michael.johnson@example.com",
+            "age": 38,
+            "address": {
+              "street": "Cedar Lane",
+              "suite": "Apt. 159",
+              "city": "Northville",
+              "zipcode": "13579",
+              "geo": {
+                "lat": "13.5791",
+                "lng": "-79.2468"
+              }
+            },
+            "phone": "(579)246-8013",
+            "website": "example.edu",
+            "company": {
+              "name": "Example Edu",
+              "catchPhrase": "Yet another yet another example catchphrase",
+              "bs": "Yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Amanda Brown",
+            "username": "amandabrown",
+            "email": "amanda.brown@example.com",
+            "age": 25,
+            "address": {
+              "street": "Pine Street",
+              "suite": "Apt. 357",
+              "city": "Southville",
+              "zipcode": "97531",
+              "geo": {
+                "lat": "97.5319",
+                "lng": "-31.4758"
+              }
+            },
+            "phone": "(013)579-2468",
+            "website": "example.gov",
+            "company": {
+              "name": "Example Gov",
+              "catchPhrase": "Another yet another yet another example catchphrase",
+              "bs": "Another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Steven Taylor",
+            "username": "steventaylor",
+            "email": "steven.taylor@example.com",
+            "age": 34,
+            "address": {
+              "street": "Maple Street",
+              "suite": "Apt. 753",
+              "city": "Westville",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.co.uk",
+            "company": {
+              "name": "Example Co UK",
+              "catchPhrase": "A very long and verbose yet another yet another example catchphrase",
+              "bs": "A very long and verbose yet another yet another example business strategy"
+            }
+          }, {
+            "id": 17,
+            "name": "Emily Wilson",
+            "username": "emilywilson",
+            "email": "emily.wilson@example.com",
+            "age": 28,
+            "address": {
+              "street": "Willow Street",
+              "suite": "Apt. 951",
+              "city": "Easttown",
+              "zipcode": "75319",
+              "geo": {
+                "lat": "75.3195",
+                "lng": "-13.5792"
+              }
+            },
+            "phone": "(246)579-0134",
+            "website": "example.us",
+            "company": {
+              "name": "Example US",
+              "catchPhrase": "Yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 18,
+            "name": "David Miller",
+            "username": "davidmiller",
+            "email": "david.miller@example.com",
+            "age": 36,
+            "address": {
+              "street": "Spruce Street",
+              "suite": "Apt. 357",
+              "city": "Northtown",
+              "zipcode": "97531",
+              "geo": {
+                "lat": "97.5319",
+                "lng": "-31.4758"
+              }
+            },
+            "phone": "(579)246-8013",
+            "website": "example.ca",
+            "company": {
+              "name": "Example CA",
+              "catchPhrase": "Another yet another yet another yet another yet another example catchphrase",
+              "bs": "Another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Jessica Martinez",
+            "username": "jessicamartinez",
+            "email": "jessica.martinez@example.com",
+            "age": 30,
+            "address": {
+              "street": "Hickory Street",
+              "suite": "Apt. 753",
+              "city": "Westtown",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.au",
+            "company": {
+              "name": "Example AU",
+              "catchPhrase": "A very long and verbose yet another yet another yet another yet another example catchphrase",
+              "bs": "A very long and verbose yet another yet another yet another yet another example business strategy"
+            }
+          } ,
+          {
+            "id": 20,
+            "name": "Samantha Walker",
+            "username": "samanthawalker",
+            "email": "samantha.walker@example.com",
+            "age": 33,
+            "address": {
+              "street": "Oak Street",
+              "suite": "Apt. 753",
+              "city": "Southtown",
+              "zipcode": "31415",
+              "geo": {
+                "lat": "31.4159",
+                "lng": "-54.3216"
+              }
+            },
+            "phone": "(579)013-2468",
+            "website": "example.uk",
+            "company": {
+              "name": "Example UK",
+              "catchPhrase": "A very long and verbose yet another yet another yet another yet another example catchphrase",
+              "bs": "A very long and verbose yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Brandon Thompson",
+            "username": "brandonthompson",
+            "email": "brandon.thompson@example.com",
+            "age": 29,
+            "address": {
+              "street": "Pine Street",
+              "suite": "Apt. 357",
+              "city": "Easttown",
+              "zipcode": "97531",
+              "geo": {
+                "lat": "97.5319",
+                "lng": "-31.4758"
+              }
+            },
+            "phone": "(579)246-8013",
+            "website": "example.org",
+            "company": {
+              "name": "Example Org",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Rachel Harris",
+            "username": "rachelharris",
+            "email": "rachel.harris@example.com",
+            "age": 32,
+            "address": {
+              "street": "Maple Street",
+              "suite": "Apt. 753",
+              "city": "Northtown",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.net",
+            "company": {
+              "name": "Example Net",
+              "catchPhrase": "A very long and verbose yet another yet another yet another yet another example catchphrase",
+              "bs": "A very long and verbose yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 23,
+            "name": "Taylor Jenkins",
+            "username": "taylorjenkins",
+            "email": "taylor.jenkins@example.com",
+            "age": 36,
+            "address": {
+              "street": "Cedar Street",
+              "suite": "Apt. 951",
+              "city": "Westtown",
+              "zipcode": "15789",
+              "geo": {
+                "lat": "15.7893",
+                "lng": "-75.3219"
+              }
+            },
+            "phone": "(579)013-2468",
+            "website": "example.fr",
+            "company": {
+              "name": "Example FR",
+              "catchPhrase": "Another yet another yet another yet another yet another example catchphrase",
+              "bs": "Another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Nathan Johnson",
+            "username": "nathanjohnson",
+            "email": "nathan.johnson@example.com",
+            "age": 38,
+            "address": {
+              "street": "Elm Street",
+              "suite": "Apt. 753",
+              "city": "Southtown",
+              "zipcode": "31415",
+              "geo": {
+                "lat": "31.4159",
+                "lng": "-54.3216"
+              }
+            },
+            "phone": "(579)013-2468",
+            "website": "example.de",
+            "company": {
+              "name": "Example DE",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Ashley Davis",
+            "username": "ashleydavis",
+            "email": "ashley.davis@example.com",
+            "age": 34,
+            "address": {
+              "street": "Birch Street",
+              "suite": "Apt. 357",
+              "city": "Easttown",
+              "zipcode": "97531",
+              "geo": {
+                "lat": "97.5319",
+                "lng": "-31.4758"
+              }
+            },
+            "phone": "(579)246-8013",
+            "website": "example.es",
+            "company": {
+              "name": "Example ES",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Alexandra Clark",
+            "username": "alexandraclark",
+            "email": "alexandra.clark@example.com",
+            "age": 35,
+            "address": {
+              "street": "Fir Street",
+              "suite": "Apt. 753",
+              "city": "Northtown",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.it",
+            "company": {
+              "name": "Example IT",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Isabella Brown",
+            "username": "isabellabrown",
+            "email": "isabella.brown@example.com",
+            "age": 35,
+            "address": {
+              "street": "Maple Street",
+              "suite": "Apt. 753",
+              "city": "Westtown",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.ch",
+            "company": {
+              "name": "Example CH",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },{
+            "id": 28,
+            "name": "Olivia Rodriguez",
+            "username": "oliviarodriguez",
+            "email": "olivia.rodriguez@example.com",
+            "age": 31,
+            "address": {
+              "street": "Chestnut Street",
+              "suite": "Apt. 357",
+              "city": "Easttown",
+              "zipcode": "97531",
+              "geo": {
+                "lat": "97.5319",
+                "lng": "-31.4758"
+              }
+            },
+            "phone": "(579)246-8013",
+            "website": "example.nl",
+            "company": {
+              "name": "Example NL",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 29,
+            "name": "Ethan Wilson",
+            "username": "ethanwilson",
+            "email": "ethan.wilson@example.com",
+            "age": 39,
+            "address": {
+              "street": "Pine Street",
+              "suite": "Apt. 753",
+              "city": "Northtown",
+              "zipcode": "53179",
+              "geo": {
+                "lat": "53.1792",
+                "lng": "-97.5314"
+              }
+            },
+            "phone": "(468)013-5792",
+            "website": "example.ru",
+            "company": {
+              "name": "Example RU",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Sophia White",
+            "username": "sophiawhite",
+            "email": "sophia.white@example.com",
+            "age": 38,
+            "address": {
+              "street": "Oak Street",
+              "suite": "Apt. 951",
+              "city": "Southtown",
+              "zipcode": "31415",
+              "geo": {
+                "lat": "31.4159",
+                "lng": "-54.3216"
+              }
+            },
+            "phone": "(579)013-2468",
+            "website": "example.at",
+            "company": {
+              "name": "Example AT",
+              "catchPhrase": "Yet another yet another yet another yet another yet another example catchphrase",
+              "bs": "Yet another yet another yet another yet another yet another example business strategy"
+            }
+          }
+        ]
+    }

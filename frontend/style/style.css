@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    font-family: "Gilroy";
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.box {
+    width: 282px;
+    height: 193px;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 127, 255);
+    border-radius: 10px;
+    background: rgb(240, 240, 240);
+    padding: 25px;
+}
+
+.about_title {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.55);
+    margin: 4px 0;
+}
+
+h2{
+    margin: 0 0 10px;
+}
+
+.more{
+    width: 232px;
+    height: 42px;
+font-size: 14px;
+font-weight: 500;
+border-radius: 4px;
+border: none;
+background: rgb(0, 113, 227);
+color: rgb(255, 255, 255);
+}
+
+
+#Phone{
+    margin-bottom: 16px;
+}
+
+.about_all_boxes, #first_grid,
+#second_grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 14px;
+}
+
+
+h2{
+    font-size: 18px;
+}
+
+.tools{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 8px;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 55px;
+}
+
+h5{
+    font-size: 24px;
+font-weight: 700;
+}
+
+.box:hover{
+    transition: 1s ease;
+    transform: scale(1.1);
+    box-shadow: 3px 3px rgba(151, 151, 151, 0.492), -1em 0 .4em rgba(35, 18, 148, 0.415);
+}
+
+.box:not(:hover){
+    transition: 1s;
+}
