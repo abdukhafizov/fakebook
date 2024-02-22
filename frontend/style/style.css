@@ -107,6 +107,16 @@ h5 {
     box-shadow: 3px 3px rgba(151, 151, 151, 0.492), -1em 0 .4em rgba(35, 18, 148, 0.415);
 }
 
+.ten:hover{
+    transition: 1s ease;
+    transform: scale(1.1)
+
+}
+
+.ten:not(:hover){
+    transition: 1s;
+}
+
 .box:not(:hover) {
     transition: 1s;
 }
@@ -120,4 +130,10 @@ h5 {
 
 .ten:not(:active) {
     transition: 1s ease;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
